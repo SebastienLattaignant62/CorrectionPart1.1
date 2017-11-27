@@ -1,0 +1,33 @@
+h1 {
+  color: red;
+  text-transform: uppercase;
+}
+h2 {
+  color: blue;
+  text-transform: lowercase;
+}
+li {
+  list-style-type: square;
+}
+body {
+  background: linear-gradient(blue,red);
+}
+div {
+  height: 400px;
+  width: 600px;
+  background-image: radial-gradient(black, green);
+  box-shadow: 6px 6px 0px;
+}
+.tableau {
+  border: 2px solide beige;
+  border-collapse: collapse;
+}
+th{
+  background: #0bda51;
+  color: white;
+  font-weight: bold;
+}
+td{
+  border-bottom: 2px solid beige;
+  font-size: 10px;
+}
